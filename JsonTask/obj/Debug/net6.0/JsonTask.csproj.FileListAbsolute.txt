@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.exe
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.deps.json
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.runtimeconfig.json
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.dll
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\bin\Debug\net6.0\JsonTask.pdb
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.dll
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\refint\JsonTask.dll
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.pdb
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\JsonTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\PB302\JsonTask\JsonTask\obj\Debug\net6.0\ref\JsonTask.dll
